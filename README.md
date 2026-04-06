@@ -1,17 +1,11 @@
 <div align="center">
   <img src="<div align="center">
-  <img src="path/to/your/logo.png" alt="New Nile Bank Logo" width="250">
+  <img src="https://github.com/samararisha/Risk-Management-Project-Banking-Industry/blob/d15b1c9733312df09c0393c7683028a26d332d32/Logo.jpeg" alt="New Nile Bank Logo" width="250">
 
   # 🏦 New Nile Bank: GRC Risk Management Project
   
   **Sector:** Banking & Financial Services | **Region:** Egypt 🇪🇬
   
-  ---
-  
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  [![GRC-Standard](https://img.shields.io/badge/Standards-ISO27001%20%7C%20PCI%20DSS-blue)](https://www.iso.org/standard/27001)
-  [![Compliance](https://img.shields.io/badge/Compliance-CBE%20Regulations-green)](https://www.cbe.org.eg/)
-
 </div>
 
 ## 📖 Project Overview
