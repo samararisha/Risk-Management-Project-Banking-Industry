@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="<div align="center">
   <img src="https://github.com/samararisha/Risk-Management-Project-Banking-Industry/blob/d15b1c9733312df09c0393c7683028a26d332d32/Logo.jpeg" alt="New Nile Bank Logo" width="250">
 
   # 🏦 New Nile Bank: GRC Risk Management Project
