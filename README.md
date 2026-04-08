@@ -3,12 +3,12 @@
 <!-- ═══════════════════════════ LOGO ROW ═══════════════════════════ -->
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="200">
+    <td align="center" width="300">
       <!-- Replace src with your first partner/framework logo -->
-      <img src="https://img.shields.io/badge/ISO%2FIEC-27001%3A2022-0057A8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PC9zdmc+" alt="ISO 27001" /><br/>
-      <sub><b>Place Logo Here</b></sub>
+      <img src="https://github.com/samararisha/Risk-Management-Project-Banking-Industry/blob/4dc8244d74cfbb342cf9cf772ae1e8e6e85fb079/logos/SANS-LOGO.png" alt="SANS" width="300"/><br/>
+      <sub><b>SANS</b></sub>
     </td>
-    <td align="center" width="280">
+    <td align="center" width="300">
       <!-- ── CENTER: New Nile Bank ── -->
       <img src="https://github.com/samararisha/Risk-Management-Project-Banking-Industry/blob/d15b1c9733312df09c0393c7683028a26d332d32/Logo.jpeg" alt="New Nile Bank" width="220"/><br/>
       <sup><i>Est. Cairo, Egypt</i></sup>
