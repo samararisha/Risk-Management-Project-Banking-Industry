@@ -15,7 +15,7 @@
     </td>
     <td align="center" width="200">
       <!-- Replace src with your second partner/framework logo -->
-      <img src="https://img.shields.io/badge/CBE-Cybersecurity%20Framework-006633?style=for-the-badge" alt="CBE Framework" /><br/>
+      <img src="https://github.com/samararisha/Risk-Management-Project-Banking-Industry/blob/396d9eb77e65840bb61ecdb675fc6b522091fa72/logos/National-Cyber-Security-Authority.png" alt="CBE Framework" /><br/>
       <sub><b>Place Logo Here</b></sub>
     </td>
   </tr>
