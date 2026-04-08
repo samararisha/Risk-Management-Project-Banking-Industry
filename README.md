@@ -3,17 +3,17 @@
 <!-- ═══════════════════════════ LOGO ROW ═══════════════════════════ -->
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="300">
+    <td align="center" width="330">
       <!-- Replace src with your first partner/framework logo -->
       <img src="https://github.com/samararisha/Risk-Management-Project-Banking-Industry/blob/4dc8244d74cfbb342cf9cf772ae1e8e6e85fb079/logos/SANS-LOGO.png" alt="SANS" width="300"/><br/>
       <sub><b>SANS</b></sub>
     </td>
-    <td align="center" width="300">
+    <td align="center" width="330">
       <!-- ── CENTER: New Nile Bank ── -->
       <img src="https://github.com/samararisha/Risk-Management-Project-Banking-Industry/blob/d15b1c9733312df09c0393c7683028a26d332d32/Logo.jpeg" alt="New Nile Bank" width="220"/><br/>
       <sup><i>Est. Cairo, Egypt</i></sup>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="280">
       <!-- Replace src with your second partner/framework logo -->
       <img src="https://github.com/samararisha/Risk-Management-Project-Banking-Industry/blob/22291ecb6bafaccc5bb8f95fbadd6c6e586004c9/logos/NCA-Logo.jpeg" alt="NCA" /><br/>
       <sub><b>NCA</b></sub>
