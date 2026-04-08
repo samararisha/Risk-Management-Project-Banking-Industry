@@ -15,8 +15,8 @@
     </td>
     <td align="center" width="200">
       <!-- Replace src with your second partner/framework logo -->
-      <img src="https://github.com/samararisha/Risk-Management-Project-Banking-Industry/blob/396d9eb77e65840bb61ecdb675fc6b522091fa72/logos/National-Cyber-Security-Authority.png" alt="CBE Framework" /><br/>
-      <sub><b>Place Logo Here</b></sub>
+      <img src="https://github.com/samararisha/Risk-Management-Project-Banking-Industry/blob/22291ecb6bafaccc5bb8f95fbadd6c6e586004c9/logos/NCA-Logo.jpeg" alt="NCA" /><br/>
+      <sub><b>NCA</b></sub>
     </td>
   </tr>
 </table>
