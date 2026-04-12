@@ -24,7 +24,7 @@
 <br/>
 
 # 🏦 New Nile Bank
-## GRC & Information Security Risk Management Project
+## Information Security Risk Management Project
 
 **`Banking & Financial Services`** &nbsp;|&nbsp; **`Leanrning Goal`** &nbsp;|&nbsp; **`Simulated Environment`**
 
