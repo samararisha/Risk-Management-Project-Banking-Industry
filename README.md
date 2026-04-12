@@ -75,33 +75,18 @@ The bank operates **47 branches**, processes **2.3 million transactions/day**, h
 ```
 New-Nile-Bank-GRC/
 │
-├── 📂 01_Methodology/
-│   ├── Risk_Assessment_Criteria.xlsx       # Likelihood × Impact scoring matrix
-│   └── Risk_Scoring_Methodology.md         # Qualitative & quantitative approach
+├── 📂 logos/                                             # Project logos (SANS, NCA, New Nile Bank)
 │
-├── 📂 02_Asset_Inventory/
-│   ├── IT_Asset_Inventory.xlsx             # 25 assets across Tier 1/2/3
-│   └── Crown_Jewels_Classification.md      # Critical asset justification
+├── 📂 Policies/                                          # Governance & policy documents
 │
-├── 📂 03_Risk_Register/
-│   ├── Cybersecurity_Risk_Register.xlsx    # Threats, vulnerabilities, residual risks
-│   └── Threat_Actor_Profiles.md            # APT38/Lazarus, ransomware groups, insiders
-│
-├── 📂 04_Treatment_Plan/
-│   ├── Risk_Treatment_Plan.xlsx            # Controls mapped to NIST CSF / ISO 27002
-│   └── PCI_DSS_v4_Checklist.xlsx          # 68-control compliance checklist
-│
-├── 📂 05_Stakeholders/
-│   ├── Stakeholder_Register.xlsx           # 27 internal & external stakeholders
-│   └── Communication_Plan.md              # Engagement strategy per stakeholder group
-│
-├── 📂 06_Governance/
-│   ├── ISMS_Scope_Document.docx            # ISO 27001 §4.3 scoping document
-│   └── Cybersecurity_Risk_Policy.docx      # Risk management policy (CISO-approved)
-│
-└── 📂 07_Reports/
-    ├── Executive_Summary.pdf               # Board-level risk overview
-    └── Risk_Heat_Map.xlsx                  # Visual risk matrix (5×5)
+├── 📄 New-Nile-Bank-Asset-Inventory.xlsx                 # IT asset inventory — 25 assets across Tier 1/2/3
+├── 📄 NCB-PCI-DSS-Checklist.xlsx                         # PCI DSS v4.0 — 68-control compliance checklist
+├── 📄 New-Nile-Risk-Register1.xlsx                       # Cybersecurity risk register — threats, vulnerabilities, residual risks
+├── 📄 Risk-Treatment-Plan-Full.xlsx                      # Risk treatment plan — controls mapped to NIST CSF / ISO 27002
+├── 📄 Stakeholder_Register_Template_Excel_ProjectM.xlsx  # Stakeholder register — 27 internal & external stakeholders
+├── 📄 POLICY_Cybersecurity_Risk_Management_Template.docx # Cybersecurity risk management policy (CISO-approved)
+├── 📄 Scope.docx                                         # ISMS scope document (ISO 27001 §4.3)
+└── 📄 README.md
 ```
 
 ---
@@ -110,14 +95,12 @@ New-Nile-Bank-GRC/
 
 | Framework / Regulation | Domain | Application in This Project |
 |---|---|---|
-| **ISO/IEC 27001:2022** | ISMS Governance | ISMS scope, policy structure, control objectives |
-| **ISO/IEC 27005:2022** | Risk Management | Risk identification, analysis, evaluation methodology |
-| **CBE Cybersecurity Framework** | National Banking | Mandatory controls for Egyptian banks, maturity levels |
-| **PCI DSS v4.0** | Payment Card Security | 68-control checklist for ATM/card/payment environment |
-| **SWIFT CSP (CSCF v2024)** | Interbank Messaging | SWIFT Alliance Gateway security controls |
-| **Egypt Law No. 151/2020** | Data Privacy | Personal data protection, 72-hr breach notification, DPO |
-| **Basel III / BCBS 239** | Operational Risk | Risk data aggregation, board-level risk reporting |
-| **NIST CSF 2.0** | Control Mapping | Identify → Protect → Detect → Respond → Recover |
+| **ISO/IEC 27005:2022** | Risk Management | Core methodology for risk identification, analysis, evaluation, and treatment — explicitly referenced in the Risk Treatment Plan and Cybersecurity Risk Policy |
+| **ISO 31000** | Risk Management Principles | Underpins the overall risk management approach; referenced alongside ISO 27005 in the Cybersecurity Risk Policy |
+| **CBE Cybersecurity Framework** | National Banking Regulation | Mandatory requirement embedded in policy — all cybersecurity risk management procedures must align with CBE directives |
+| **PCI DSS v4.0** | Payment Card Security | Full 12-requirement compliance checklist covering all NCB ATM, Base24, and card payment environments |
+| **SWIFT CSP (CSCF v2024)** | Interbank Messaging Security | CSCF v2024 mandatory controls applied to SWIFT SAG — including payment transaction signing, anomaly detection, and MFA on operator accounts (RR-09) |
+| **NIST** | Control Guidance | Referenced in the Cybersecurity Risk Policy as a supplementary international guideline alongside ISO 27005 and ISO 31000 |
 
 ---
 
@@ -143,8 +126,6 @@ New-Nile-Bank-GRC/
 | ISMS Scope Document | Word | ✅ Complete |
 | Cybersecurity Risk Policy | Word | ✅ Complete |
 | PCI DSS v4.0 Checklist (68 controls) | Excel | ✅ Complete |
-| Risk Heat Map | Excel | 🔄 In Progress |
-| Executive Summary Report | PDF | 🔄 In Progress |
 
 ---
 
@@ -172,6 +153,6 @@ No real customer data, financial information, or proprietary systems are involve
 
 <br/>
 
-<sub>© 2026 Samara Risha · MIT License</sub>
+<sub>© 2026 Samara Risha/sub>
 
 </div>
