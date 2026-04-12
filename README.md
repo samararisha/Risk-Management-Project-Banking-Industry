@@ -136,7 +136,7 @@ New-Nile-Bank-GRC/
 **Samara Risha**
 *Final-year Computer Science Student · Cybersecurity & GRC Enthusiast*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin/in/samararisha)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/samararisha)
 
 </div>
