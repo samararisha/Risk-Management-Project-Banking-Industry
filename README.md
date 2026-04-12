@@ -11,7 +11,7 @@
     <td align="center" width="330">
       <!-- ── CENTER: New Nile Bank ── -->
       <img src="https://github.com/samararisha/Risk-Management-Project-Banking-Industry/blob/d15b1c9733312df09c0393c7683028a26d332d32/Logo.jpeg" alt="New Nile Bank" width="220"/><br/>
-      <sup><i>Est. Cairo, Egypt</i></sup>
+      <sup><i>Bank</i></sup>
     </td>
     <td align="center" width="280">
       <!-- Replace src with your second partner/framework logo -->
