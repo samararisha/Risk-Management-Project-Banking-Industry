@@ -126,6 +126,7 @@ New-Nile-Bank-GRC/
 | ISMS Scope Document | Word | ✅ Complete |
 | Cybersecurity Risk Policy | Word | ✅ Complete |
 | PCI DSS v4.0 Checklist (68 controls) | Excel | ✅ Complete |
+| Central Bank of Egypt Control mapping | Excel | ✅ Complete |
 
 ---
 
